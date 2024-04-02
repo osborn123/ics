@@ -1,0 +1,13 @@
+total accesses: 5
+hits: 1
+misses: 4
+total reads: 4
+read hits: 1
+total writes: 1
+write hits: 0
+
+R 0x00000000 MISS
+R 0x00000008 MISS
+W 0x00000010 MISS
+R 0x0000000C HIT
+R 0x00000004 MISS
